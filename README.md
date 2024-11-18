@@ -22,3 +22,4 @@
 | --------------- | ------------------------------------------------------------ |
 | 联邦学习实操课（1） | [FL-handson-1](./slides/FL-handson-1.pdf) |
 | 联邦学习实操课（2） | [FL-handson-2](./slides/FL-handson-2.pdf) |
+| 云计算实操课（1） | [Cloud-handson-1](./slides/Cloud-handson-1.pdf) |
