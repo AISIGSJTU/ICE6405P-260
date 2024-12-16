@@ -23,6 +23,7 @@
 | 联邦学习实操课（1） | [FL-handson-1](./slides/FL-handson-1.pdf) |
 | 联邦学习实操课（2） | [FL-handson-2](./slides/FL-handson-2.pdf) |
 | 云计算实操课（1） | [Cloud-handson-1](./slides/Cloud-handson-1.pdf) |
+| 云计算实操课（2） | [Cloud-handson-2](./slides/Cloud-handson-2.pdf) |
 
 ## 作业 / Homework
 
@@ -41,3 +42,11 @@
 - (bonus) 尝试对于论文方法进行改进，并实验验证方案的可行性。
 
 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
+
+## Serverless Computing Lab (DDL: 2024年12月31日23:59)
+
+- 基于阿里云，在课上讲的MapReduce、高维矩阵运算、分布式机器学习训练、机器学习推理任务四个任务中进行实现。
+
+- 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
+
+- Bonus: 在本地搭建Kubernetes集群和OpenWhisk或者KubeFaaS框架，基于该框架实现基本的无服务器计算任务。
