@@ -15,6 +15,9 @@
 | 联邦学习研究 | [Lecture 3](./slides/lec3-FL Research.pdf) |
 | 虚拟化 | [Lecture 4](./slides/lec4-virtualization.pdf) |
 | 高级虚拟化 | [Lecture 5](./slides/lec5-advanced virtualization.pdf) |
+| 无服务器计算概论 |  |
+| 无服务器计算前沿 |  |
+| 量子计算概论 | [Lecture 8](./slides/lec8-intro-qc.pdf) |
 
 ## 动手实践 / Hands-on
 
@@ -43,7 +46,7 @@
 
 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
 
-## Serverless Computing Lab (DDL: 2024年12月31日23:59)
+Serverless Computing Lab (DDL: 2024年12月31日23:59)
 
 - 基于阿里云，在课上讲的MapReduce、高维矩阵运算、分布式机器学习训练、机器学习推理任务四个任务中进行实现。
 
