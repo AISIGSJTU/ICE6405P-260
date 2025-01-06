@@ -18,6 +18,7 @@
 | 无服务器计算概论 |  |
 | 无服务器计算前沿 |  |
 | 量子计算概论 | [Lecture 8](./slides/lec8-intro-qc.pdf) |
+| 量子机器学习 | [Lecture 9](./slides/lec9-qml.pdf) |
 
 ## 动手实践 / Hands-on
 
@@ -46,10 +47,11 @@
 
 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
 
-Serverless Computing Lab (DDL: 2024年12月31日23:59)
+### Serverless Computing Lab (DDL: 2024年12月31日23:59)
 
 - 基于阿里云，在课上讲的MapReduce、高维矩阵运算、分布式机器学习训练、机器学习推理任务四个任务中进行实现。
 
 - 作业提交：实验报告+源代码+必要的实验log数据+答辩ppt
 
 - Bonus: 在本地搭建Kubernetes集群和OpenWhisk或者KubeFaaS框架，基于该框架实现基本的无服务器计算任务。
+
